@@ -5,12 +5,13 @@ print("by Fandi63")
 print("===========================")
 os.system("toilet -f mono12 -F gay IPhack")
 print("===========================") 
-print("1:>Ping russia.com")
-print("2:>Ping www.news.ru")
-input("Enter option:>")
-if input == 1:
-	os.system("ping russia.com")
-if input == 2:
-	os.system("news.ru")
+input("Press Enter::")
+os.system("clear")
+print("hacking....")
+os.system("clear") 
+os.system("ping zscvrch.cz") 
+print("Back to main menu? Press enter to continue") 
+os.system("python iphack.py")
+
 
 
